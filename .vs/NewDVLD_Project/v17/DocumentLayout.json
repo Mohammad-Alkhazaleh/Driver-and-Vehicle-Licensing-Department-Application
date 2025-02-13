@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NewDVLD_Project\\NewDVLD_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2516C-A46B-40FA-A3BB-1E6A37E85B0B}|NewDVLD_Project.csproj|d:\\newdvld_project\\newdvld_project\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1B2516C-A46B-40FA-A3BB-1E6A37E85B0B}|NewDVLD_Project.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2516C-A46B-40FA-A3BB-1E6A37E85B0B}|NewDVLD_Project.csproj|D:\\NewDVLD_Project\\NewDVLD_Project\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2516C-A46B-40FA-A3BB-1E6A37E85B0B}|NewDVLD_Project.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2516C-A46B-40FA-A3BB-1E6A37E85B0B}|NewDVLD_Project.csproj|D:\\NewDVLD_Project\\NewDVLD_Project\\applications\\replacmentforlostordamaged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2516C-A46B-40FA-A3BB-1E6A37E85B0B}|NewDVLD_Project.csproj|solutionrelative:applications\\replacmentforlostordamaged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D61849-E0E9-4DED-9C14-0BE561B5BC52}|..\\DVLD_Buisness\\DVLD_Buisness.csproj|d:\\newdvld_project\\dvld_buisness\\clsapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2516C-A46B-40FA-A3BB-1E6A37E85B0B}|NewDVLD_Project.csproj|D:\\NewDVLD_Project\\NewDVLD_Project\\applications\\replacmentforlostordamaged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1B2516C-A46B-40FA-A3BB-1E6A37E85B0B}|NewDVLD_Project.csproj|solutionrelative:applications\\replacmentforlostordamaged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReplacmentForLostOrDamaged.cs",
+              "DocumentMoniker": "D:\\NewDVLD_Project\\NewDVLD_Project\\Applications\\ReplacmentForLostOrDamaged.cs",
+              "RelativeDocumentMoniker": "Applications\\ReplacmentForLostOrDamaged.cs",
+              "ToolTip": "D:\\NewDVLD_Project\\NewDVLD_Project\\Applications\\ReplacmentForLostOrDamaged.cs",
+              "RelativeToolTip": "Applications\\ReplacmentForLostOrDamaged.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAHgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T05:56:01.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsApplications.cs",
+              "DocumentMoniker": "D:\\NewDVLD_Project\\DVLD_Buisness\\clsApplications.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_Buisness\\clsApplications.cs",
+              "ToolTip": "D:\\NewDVLD_Project\\DVLD_Buisness\\clsApplications.cs",
+              "RelativeToolTip": "..\\DVLD_Buisness\\clsApplications.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAAG8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T07:28:59.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReplacmentForLostOrDamaged.cs [Design]",
+              "DocumentMoniker": "D:\\NewDVLD_Project\\NewDVLD_Project\\Applications\\ReplacmentForLostOrDamaged.cs",
+              "RelativeDocumentMoniker": "Applications\\ReplacmentForLostOrDamaged.cs",
+              "ToolTip": "D:\\NewDVLD_Project\\NewDVLD_Project\\Applications\\ReplacmentForLostOrDamaged.cs [Design]",
+              "RelativeToolTip": "Applications\\ReplacmentForLostOrDamaged.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T05:52:56.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmMain.cs",
+              "DocumentMoniker": "D:\\NewDVLD_Project\\NewDVLD_Project\\FrmMain.cs",
+              "RelativeDocumentMoniker": "FrmMain.cs",
+              "ToolTip": "D:\\NewDVLD_Project\\NewDVLD_Project\\FrmMain.cs",
+              "RelativeToolTip": "FrmMain.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAD4v4YAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T08:06:38.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmMain.cs [Design]",
+              "DocumentMoniker": "D:\\NewDVLD_Project\\NewDVLD_Project\\FrmMain.cs",
+              "RelativeDocumentMoniker": "FrmMain.cs",
+              "ToolTip": "D:\\NewDVLD_Project\\NewDVLD_Project\\FrmMain.cs [Design]",
+              "RelativeToolTip": "FrmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T08:00:51.567Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
